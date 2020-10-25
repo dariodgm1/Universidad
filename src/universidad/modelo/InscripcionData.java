@@ -164,4 +164,8 @@ return inscripciones;
         }
 return inscripciones;
  }  
+
+    private Alumno buscarAlumno(int aInt) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }

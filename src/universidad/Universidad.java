@@ -37,7 +37,7 @@ public class Universidad {
         ad.guardarAlumno(camila);
         ad.guardarAlumno(lucrecia);
         
-        /*Materia matematica = new Materia(1,"Matematica");
+        Materia matematica = new Materia(1,"Matematica");
         Materia laboratorio = new Materia(2,"Laboratorio");
         Materia eda = new Materia(3,"Eda");
         Materia web = new Materia(4,"Web");
@@ -45,7 +45,7 @@ public class Universidad {
         md.guardarMateria(matematica);
         md.guardarMateria(laboratorio);
         md.guardarMateria(eda);
-        md.guardarMateria(web);*/
+        md.guardarMateria(web);
         
     }
     
